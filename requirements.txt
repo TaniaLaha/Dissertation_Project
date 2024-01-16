@@ -1,0 +1,13 @@
+PyPDF2
+nltk
+numpy
+scikit-learn
+pandas
+PyMuPDF
+transformers 
+langchain
+OpenAI
+spacy
+tiktoken
+tensorflow
+Pytorch
