@@ -1,0 +1,22 @@
+Table for LSA
+Section,Similarity Score(LSA)
+Title,0.421637
+Abstract,0.219694
+1 Introduction,0.150997
+2 Background,0.058666
+3 Approach,0.000000
+4 Experiments,0.099015
+5 Related Work,0.081650
+6 Conclusion,0.000000
+Average Similarity (LSA),0.087146
+
+Table for BART summaries
+Section,Similarity Score (BART)
+Abstract,0.155173
+1 Introduction,0.153411
+2 Background,0.117851
+3 Approach,0.060858
+4 Experiments,0.062746
+5 Related Work,0.089712
+6 Conclusion,0.050637
+Average Similarity (BART),0.098627
