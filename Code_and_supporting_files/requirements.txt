@@ -1,0 +1,14 @@
+PyPDF2
+nltk
+numpy
+scikit-learn
+pandas
+PyMupdf
+transformers 
+tiktoken
+tensorflow
+prettytable
+py-rouge
+rouge-score
+spacy
+openpyxl
